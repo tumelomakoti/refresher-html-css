@@ -10,3 +10,11 @@
 .video-title {
   width: 300px;
 }
+
+.video-author{
+  display: inline-block;
+}
+
+.video-stats{
+  display: inline-block;
+}
